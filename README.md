@@ -17,6 +17,7 @@ AIFFEL 강남 3기 파이썬 마스터 풀잎 1조에서 [파이썬 코딩 도�
 
 ## 🐣 풀잎 커리큘럼
 - notion : https://www.notion.so/modulabs/Python-Master-1-12a6820efb61468993189d007adbdc4e
+
 |풀잎날자|풀잎내용|
 |:------:|:-----|
 |2021.12.28|unit 13~15 : 조건문|
